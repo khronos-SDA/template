@@ -202,9 +202,6 @@ OBS: Incluir para os tópicos 3.5.2 e 3.5.3 as instruções SQL + imagens (print
 <br>
 ### 3.7	DIFICULDADES ENCONTRADAS PELO GRUPO<br>  
 
-
-
-
 # Gestão de Configuração
 ## 1.    Metodologia
 descrever metodologias e políticas que serão usadas para realizar a gestão de configuração como, por exemplo, Gitflow, rastreabilidade de requisitos e mudanças. É necessário descrever em detalhes os procedimentos.
@@ -233,14 +230,28 @@ Apresentar a retrospectiva da equipe do sprint realizado.
 ## 1.    Métricas de qualidade 
 definir métricas de qualidade para cada artefato do projeto como, por exemplo, quantidade de codesmell, complexidade ciclomática e outras. 
 ## 2.    Classes de equivalência e particionamento de equivalência 
-defina as classes de equivalências para as métricas de qualidade. 
+***Defina as classes de equivalências para as métricas de qualidade. ****
+
+| Entrada | Classe de Equivalência| Tipo de Classe de Equivalência| 
+| --- | --- | --- | 
+| Valor | valor é um valor monetário entre 0,00 e 1.710,78 |Válida
+| Valor | valor é um valor monetário entre 1.710,79 e 2.563,91  |Válida
+| Valor | valor é um valor monetário entre 2.563,92 e 3.418,59 |Válida
+| Valor | valor é um valor monetário entre 3.418,59 e 4.271,59  |Válida
+| Valor | valor é um valor monetário maior do que 4.271,59  |Válida
+| Valor | valor não é um valor monetário | inválida
+| Valor | valor é um valor monetário menor do que 0 |inválida
+
 
 ## 3.    Medição 
-seção que escreve como as métricas estão sendo atingidas. Essa seção deve ser atualizada por sprint. 
+seção que descreve com será feita a medição das métricas. Essa seção deve ser atualizada por sprint. 
 ## 4.    Testes
-Técnicas utilizadas para os testes: apresentar as técnicas utilizadas para o planejamento e execução de testes como, por exemplo, teste funcional sistemático e testes estruturais. 
+***Técnicas utilizadas para os testes: apresentar as técnicas utilizadas para o planejamento e execução de testes como, por exemplo, teste funcional sistemático e testes estruturais.***
+
 ## 5.    Cenário de Teste
 apresentar todos os cenários de teste sucesso e falhas das histórias de usuário.  
+
+
 ## 6.    Histórico  
 O grupo deve apresentar a evolução da qualidade dos itens ao longo das entregas, ou seja, em outras palavras, o grupo deve apresentar o histórico de evolução da qualidade dos artefatos de software e discursar o motivo da evolução.
 
