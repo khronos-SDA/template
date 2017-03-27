@@ -230,7 +230,7 @@ Apresentar a retrospectiva da equipe do sprint realizado.
 ## 1.    Métricas de qualidade 
 definir métricas de qualidade para cada artefato do projeto como, por exemplo, quantidade de codesmell, complexidade ciclomática e outras. 
 ## 2.    Classes de equivalência e particionamento de equivalência 
-***Defina as classes de equivalências para as métricas de qualidade. ****
+*** Defina as classes de equivalências para as métricas de qualidade. ***
 
 | Entrada | Classe de Equivalência| Tipo de Classe de Equivalência| 
 | --- | --- | --- | 
