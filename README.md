@@ -142,15 +142,19 @@ O padrão foi utilizado para resolver o problema de .....
         a) inclusão das instruções para criação das tabelas e estruturas de amazenamento do BD
         b) inclusão das instruções de inserção dos dados nas referidas tabelas
         c) inclusão das instruções para execução de outros procedimentos necessários
+        d) estes dados serão utilizados como exemplo nas consultas e views e portanto devem ter 
+        informações pertinentes e consistentes (não devem ser gerados aleatoriamente)
+        
 
 ### 3.5	TABELAS E PRINCIPAIS CONSULTAS<br>
 #### 3.5.1	GERACAO DE DADOS (MÍNIMO DE 1,5 MILHÃO DE REGISTROS PARA PRINCIPAL RELAÇAO)<br>
-    Data de Entrega: (Data a ser definida)
+    Estes dados podem ser gerados de modo aleatório por funções de geração de dados, 
+    mas devem possuir uma petinência mínima com os atributos aos quais pertencem.
 <br>
 OBS: Incluir para os tópicos 3.5.2 e 3.5.3 as instruções SQL + imagens (print da tela) mostrando os resultados.<br>
 
 #### 3.5.2	SELECT DAS TABELAS COM PRIMEIROS 10 REGISTROS INSERIDOS<br> 
-    Data de Entrega: (Data a ser definida)
+    Esta atividade deve incluir todas as tabelas existentes no sistema
 <br>
 
 #### 3.5.3	SELECT DAS VISÕES COM PRIMEIROS 10 REGISTROS<br>
@@ -158,6 +162,8 @@ OBS: Incluir para os tópicos 3.5.2 e 3.5.3 as instruções SQL + imagens (print
     e necessidade ela contempla.
     b) Descrição das permissões de acesso e usuários correlacionados (após definição <br>
     destas características)
+    c) Devem ser criadas no mínimo 5 views
+    d) Estas vises devem refletir os principais relatórios que serão fornecidos pelo sistema
     Data de Entrega: (Data a ser definida)
 <br>
 
@@ -167,6 +173,7 @@ OBS: Incluir para os tópicos 3.5.2 e 3.5.3 as instruções SQL + imagens (print
         b) Código do objeto (função/trigger/asserção)
         c) exemplo de dados para aplicação
         d) resultados em forma de tabela/imagem
+        e) Mínimo de 2 funções, 2 asserções e 2 triggers (6 no mínimo)
 <br>
 
 #### 3.5.5	Administração do banco de dados<br>
