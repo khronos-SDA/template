@@ -177,14 +177,15 @@ OBS: Incluir para os tópicos 3.5.2 e 3.5.3 as instruções SQL + imagens (print
         c) Planejamento de rotinas de manutenção e monitoramento do banco
         d) Plano com frequencia de análises visando otimização de performance
 <br>
+
 #### 3.5.6	Backup do Banco de Dados<br>
-        Detalhamento do backup.
-        a) Tempo
-        b) Tamanho
-        c) Teste de restauração (backup)
-        d) Tempo para restauração
-        e) Teste de restauração (script sql)
-        f) Tempo para restauração (script sql)
+     Detalhamento do backup.
+     a) Tempo
+     b) Tamanho
+     c) Teste de restauração (backup)
+     d) Tempo para restauração
+     e) Teste de restauração (script sql)
+     f) Tempo para restauração (script sql)
 <br>
 
 #### 3.5.7	APLICAÇAO DE ÍNDICES E TESTES DE PERFORMANCE<br>
@@ -193,7 +194,8 @@ OBS: Incluir para os tópicos 3.5.2 e 3.5.3 as instruções SQL + imagens (print
     c) Tabela de resultados comparando velocidades antes e depois da aplicação dos índices
     d) Incluir nas explicações imagens e tuplas do analyse postgres
     e) Mínimo de 5 análises nas principais tabelas
-<br>   
+<br>
+
 #### 3.5.8	ANÁLISE DOS DADOS COM ORANGE<br>    
     a) aplicação de algoritmos e interpretação dos resultados
     b) o método utilizado para paresentação dos dados deve ser comparado com o exemplo padrão do Orange
@@ -204,6 +206,7 @@ OBS: Incluir para os tópicos 3.5.2 e 3.5.3 as instruções SQL + imagens (print
 <br>
     Data de Entrega: (Data a ser definida)
 <br>
+
 ### 3.7	DIFICULDADES ENCONTRADAS PELO GRUPO<br>  
 
 # Gestão de Configuração
