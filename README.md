@@ -152,13 +152,15 @@ OBS: Incluir para os tópicos 3.5.2 e 3.5.3 as instruções SQL + imagens (print
 #### 3.5.2	SELECT DAS TABELAS COM PRIMEIROS 10 REGISTROS INSERIDOS<br> 
     Data de Entrega: (Data a ser definida)
 <br>
+
 #### 3.5.3	SELECT DAS VISÕES COM PRIMEIROS 10 REGISTROS<br>
-        a) Descrição da view sobre que grupos de usuários (operacional/estratégico) <br>
-        e necessidade ela contempla.
-        b) Descrição das permissões de acesso e usuários correlacionados (após definição <br>
-        destas características)
+    a) Descrição da view sobre que grupos de usuários (operacional/estratégico) <br>
+    e necessidade ela contempla.
+    b) Descrição das permissões de acesso e usuários correlacionados (após definição <br>
+    destas características)
     Data de Entrega: (Data a ser definida)
 <br>
+
 #### 3.5.4	LISTA DE CODIGOS DAS FUNÇÕES, ASSERÇOES E TRIGGERS<br>
         Detalhamento sobre funcionalidade de cada código.
         a) Objetivo
@@ -166,6 +168,7 @@ OBS: Incluir para os tópicos 3.5.2 e 3.5.3 as instruções SQL + imagens (print
         c) exemplo de dados para aplicação
         d) resultados em forma de tabela/imagem
 <br>
+
 #### 3.5.5	Administração do banco de dados<br>
         Descrição detalhada sobre como serão executadas no banco de dados as <br>
         seguintes atividades.
@@ -196,6 +199,7 @@ OBS: Incluir para os tópicos 3.5.2 e 3.5.3 as instruções SQL + imagens (print
     b) o método utilizado para paresentação dos dados deve ser comparado com o exemplo padrão do Orange
         (ex: Tree Decision usa dataset Iris, Sieve diagram usa dataset Titanic, K-means usa dataset Iris, etc...)
     c) devem ser apresentadas no mínimo 4 análises.
+
 ### 3.6	ATUALIZAÇÃO DA DOCUMENTAÇÃO/ SLIDES E ENTREGA FINAL<br>
 <br>
     Data de Entrega: (Data a ser definida)
