@@ -187,15 +187,15 @@ OBS: Incluir para os tópicos 3.5.2 e 3.5.3 as instruções SQL + imagens (print
 #### 3.5.7	APLICAÇAO DE ÍNDICES E TESTES DE PERFORMANCE<br>
     a) Lista de índices, tipos de índices com explicação de porque foram implementados
     b) Performance esperada VS Resultados obtidos
-    c) Tabela de resultados comparando velocidades antes e depois da aplicação dos índices.
-<br>
-    Data de Entrega: (Data a ser definida)
+    c) Tabela de resultados comparando velocidades antes e depois da aplicação dos índices
+    d) Incluir nas explicações imagens e tuplas do analyse postgres
+    e) Mínimo de 5 análises nas principais tabelas
 <br>   
 #### 3.5.8	ANÁLISE DOS DADOS COM ORANGE<br>    
     a) aplicação de algoritmos e interpretação dos resultados
-<br>
-    Data de Entrega: (Data a ser definida)
-<br>
+    b) o método utilizado para paresentação dos dados deve ser comparado com o exemplo padrão do Orange
+        (ex: Tree Decision usa dataset Iris, Sieve diagram usa dataset Titanic, K-means usa dataset Iris, etc...)
+    c) devem ser apresentadas no mínimo 4 análises.
 ### 3.6	ATUALIZAÇÃO DA DOCUMENTAÇÃO/ SLIDES E ENTREGA FINAL<br>
 <br>
     Data de Entrega: (Data a ser definida)
